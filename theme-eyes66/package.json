@@ -1,0 +1,17 @@
+{
+	"name": "theme-eyes66",
+	"version": "1.0.1",
+	"publisher": "shudun",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "theme-eyes66",
+				"uiTheme": "vs",
+				"path": "./themes/theme-eyes66-color-theme.json"
+			}
+		]
+	}
+}
