@@ -2,8 +2,13 @@
 	"name": "theme-eyes66",
 	"version": "1.0.1",
 	"publisher": "shudun",
+	"icon": "./eyes66.png",
 	"engines": {
 		"vscode": "*"
+	},
+	"repository": "https://github.com/lifestep/eyes66",
+	"galleryBanner": {
+		"color": "#FFFAE9"
 	},
 	"contributes": {
 		"themes": [
