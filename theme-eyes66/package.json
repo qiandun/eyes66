@@ -2,7 +2,7 @@
 	"name": "theme-eyes66",
 	"version": "1.0.1",
 	"publisher": "shudun",
-	"icon": "./eyes66.png",
+	"icon": "eyes66.png",
 	"engines": {
 		"vscode": "*"
 	},
