@@ -1,6 +1,6 @@
 {
 	"name": "theme-eyes66",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "shudun",
 	"icon": "eyes66.png",
 	"engines": {
@@ -8,7 +8,7 @@
 	},
 	"repository": "https://github.com/lifestep/eyes66",
 	"galleryBanner": {
-		"color": "#FFFAE9"
+		"color": "#FDF6E3"
 	},
 	"contributes": {
 		"themes": [
