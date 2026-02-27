@@ -1,12 +1,12 @@
 {
 	"name": "eye-screen",
-	"version": "2.0.1",
+	"version": "2.0.2",
 	"publisher": "shudun",
 	"icon": "eyes66.png",
 	"engines": {
 		"vscode": "*"
 	},
-	"repository": "https://github.com/lifestep/eyes66",
+	"repository": "https://github.com/qiandun/eyes66",
 	"galleryBanner": {
 		"color": "#FDF6E3"
 	},
