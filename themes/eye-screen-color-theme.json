@@ -11,6 +11,10 @@
 
     "button.background": "#1A1A1A",
     "button.foreground": "#FFFCF3",
+    "button.secondaryBackground": "#686868",
+    "button.secondaryForeground": "#FFFCF3",
+    "extensionButton.prominentBackground": "#0066AA",
+    "extensionButton.prominentForeground": "#FFFCF3",
 
     "checkbox.border": "#cccccc",
 
