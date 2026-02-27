@@ -1,15 +1,20 @@
 {
 	"name": "eye-screen",
+	"displayName": "护眼主题",
+	"description": "一款模拟宣纸墨迹的护眼主题，适合中国人的审美。",
 	"version": "2.0.2",
-	"publisher": "shudun",
+	"publisher": "qiandun",
 	"icon": "eyes66.png",
 	"engines": {
 		"vscode": "*"
 	},
 	"repository": "https://github.com/qiandun/eyes66",
 	"galleryBanner": {
-		"color": "#FDF6E3"
+		"color": "#f9f1db"
 	},
+	"categories": [
+		"Themes"
+	],
 	"contributes": {
 		"themes": [
 			{
